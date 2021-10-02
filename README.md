@@ -33,4 +33,4 @@
         https://github.com/patelpr03/Password-Generator
 
 # screenshot
-        ![Password Length].(./passwordg.jpg)
+        ![Password Length].(passwordg.jpg)
