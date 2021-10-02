@@ -1,4 +1,5 @@
 # Project Name
+<<<<<<< HEAD
         Password Generator 
 
 # Description 
@@ -34,3 +35,17 @@
 
 # screenshot
         ![Password Length].(./passwordg.jpg)
+=======
+        Password Generator
+
+# Description 
+     Generate a random password based on criteria selected.Password having any uppercase character, one lowercase character, one number, one special character and a length of 8- 128 characters.
+
+
+# link to deployed application
+ https://github.com/patelpr03/Password-Generator
+
+# screenshot
+   outcome.jpg
+
+>>>>>>> f72a3859af0ee06de5ae97ff1e67a45007e8f0e5
