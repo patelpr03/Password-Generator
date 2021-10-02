@@ -33,4 +33,5 @@
         https://github.com/patelpr03/Password-Generator
 
 # screenshot
-         ![Paasword](./assets/passwordg.jpg)
+        
+         ![password](./assets/password.jpg)
