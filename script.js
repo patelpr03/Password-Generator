@@ -5,10 +5,11 @@ var generateBtn = document.querySelector("#generate");
 var passlength, cuppercase, clowercase, csymbols, cnumbers;
 function askQuestions() {
 
-  while (passlength < 8 || passlength > 128) {
+  passlength= prompt("How many characters would you like your password to be?");
+  while ((passlength < 8 || passlength > 128) )
+  {
     passlength = prompt("Length must be 8-128 characters");
   }
-  passlength= prompt("How many characters would you like your password to be?");
   cuppercase = confirm("Would you like to use uppercase letters?");
   clowercase = confirm("Would you like to use lowercase letters?");
   cnumbers = confirm("would you like to use numbers?");
