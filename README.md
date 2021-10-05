@@ -27,11 +27,11 @@
         I WANT to randomly generate a password that meets certain criteria
         SO THAT I can create a strong password that provides greater security
 # link to deployed application
-        https://patelpr03.github.io/Password-Generator/
+ https://patelpr03.github.io/Password-Generator/
 
 # The github repo
-        https://github.com/patelpr03/Password-Generator
+ https://github.com/patelpr03/Password-Generator
 
 # screenshot
         
-         ![password](./assets/password.jpg)
+![password](./assets/password.jpg)
