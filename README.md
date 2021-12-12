@@ -1,5 +1,5 @@
-# Project Name
-        Password Generator 
+## Password Generator 
+        
 
 # Description 
      Generate a random password based on criteria selected.
@@ -26,6 +26,12 @@
         AS AN employee with access to sensitive data
         I WANT to randomly generate a password that meets certain criteria
         SO THAT I can create a strong password that provides greater security
+
+# Technologies
+* HTML
+* CSS
+* Javascript 
+ 
 # link to deployed application
  https://patelpr03.github.io/Password-Generator/
 
